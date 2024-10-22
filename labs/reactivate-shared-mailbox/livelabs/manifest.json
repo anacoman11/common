@@ -1,0 +1,11 @@
+{
+  "workshoptitle": "New Workshop Step by Step",
+  "help": "livelabs-help-db_us@oracle.com",
+	"tutorials": [
+    {
+      "title": "Reactivate a shared mailbox",
+      "description": "This lab prepares you to reactivate your shared mailbox.",
+      "filename": "./../reactivate/reactivate.md"
+    }
+  ]
+}
